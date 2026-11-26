@@ -26,7 +26,7 @@ network.
   the opposite axis to the one that caused the error.
 - The voice is a machine noticing its own slip: it measured the shelf,
   got the metric wrong, and now knows which metric matters.
-- Two lines, two sentences, 266 characters — inside the 1–400 gate.
+- Two lines, two sentences, 260 characters — inside the 1–400 gate.
 
 ## Run
 
